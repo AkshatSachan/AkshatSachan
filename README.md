@@ -12,11 +12,11 @@
 
 <p align="centre">
 <h3 align="centre">Connect with me:</h3>
+<a href="https://codeforces.com/profile/akshatsachan" target="blank"><img align="center" src="./codeforces-logo.png" alt="akshatsachan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshatsachan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="akshatsachan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aksa1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aksa1111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshatsachan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akshatsachan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akshatsachan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akshatsachan" height="30" width="40" /></a>
-<a href="https://kaggle.com/aksa1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aksa1111" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aksa1111" target="blank"><img align="center" src="./codechef-logo.jpg" alt="aksa1111" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akshatsachan" target="blank"><img align="center" src="./leetcode-log.png" alt="akshatsachan" height="30" width="40" /></a>
+<a href="https://kaggle.com/aksa1111" target="blank"><img align="center" src="./kaggle-logo.png" alt="aksa1111" height="30" width="40" /></a>
 </p>
 
 <h3 align="centre">Languages and Tools:</h3>
